@@ -1,4 +1,5 @@
 #!/bin/bash
+source ~/.git-prompt.sh
 
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/
 export PATH=${PATH}:/usr/local/mysql/bin
